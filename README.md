@@ -1,6 +1,8 @@
-Fork from http://github.com/phayes/geoPHP
+Fork from http://github.com/sookoll/geoPHP
 
 Added pointInPolygon method for Polygon and Multipolygon classes for intersects test without GEOS.
+
+(Latest version of code wasn't published as a composer package)
 
 Credit
 -------------------------------------------------
